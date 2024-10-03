@@ -1,16 +1,3 @@
-// console.log(3);
-let a = 1;
-
-console.log(a);
-
-let b = a;
-
-console.log(b)
-
-c = b + 1;
-
-console.log(c)
-
 let d = [1, 2, 3]
 
 console.log(d)
@@ -25,3 +12,16 @@ console.log(e)
 
 console.log(d)
 
+let f = [5, 6, 7];
+
+console.log(f)
+
+d = f 
+
+console.log(d)
+
+// console.log(d)
+
+// d = e
+
+// console.log(d
